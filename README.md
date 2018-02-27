@@ -2,7 +2,7 @@
 
 Includes the following topics: 1. Core Java: Data Structures &amp; Collections , Java 8 , Java docs 2. Unit testing: Basics of Unit Testing , JUnit 3. Developer tools: Trello and Jira
 
-## New topics:
+## New topics
 
 ### Preview
 1. Core Java: 
