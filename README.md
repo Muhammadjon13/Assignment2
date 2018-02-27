@@ -18,47 +18,47 @@ Includes the following topics: 1. Core Java: Data Structures &amp; Collections ,
  
 ### Core Java
 #### Data Structure & Collections
-Useful links:
+Useful links:  
 #### Java 8
-The following Java 8 features can be used in Android:
+The following Java 8 features can be used in Android:  
 ##### 1. Lambda expression
-__Requirements:__
-Sdk: Any
-However, Android does not support the serialization of lambda expressions
-__Useful links:__
-https://beginnersbook.com/2017/10/java-lambda-expressions-tutorial-with-examples/ 
-http://www.mkyong.com/java8/java-8-lambda-comparator-example/ 
+__Requirements:__  
+Sdk: Any  
+However, Android does not support the serialization of lambda expressions  
+__Useful links:__  
+https://beginnersbook.com/2017/10/java-lambda-expressions-tutorial-with-examples/  
+http://www.mkyong.com/java8/java-8-lambda-comparator-example/  
 
 ##### 2. forEach loop
-__Requirements:__
-Sdk: Any
+__Requirements:__  
+Sdk: Any  
 
 ##### 3. Method references
-__Requirements:__
-Sdk: Any
-However, type annotation information is available at compile time, but not at runtime. Also, the platform supports TYPE in API level 24 and below, but not ElementType.TYPE_USE or ElementType.TYPE_PARAMETER.
-__Useful links:__
+__Requirements:__  
+Sdk: Any  
+However, type annotation information is available at compile time, but not at runtime. Also, the platform supports TYPE in API level 24 and below, but not ElementType.TYPE_USE or ElementType.TYPE_PARAMETER.  
+__Useful links:__  
 https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx
 
 ##### 4. Type Annotations:
-(What is type annotations? https://beginnersbook.com/2014/09/java-annotations/) 
-__Requirements:__
-Sdk: Any
-__Useful links:__
-https://blogs.oracle.com/java-platform-group/java-8s-new-type-annotations
-https://www.mscharhag.com/java/java-8-type-annotations
+(What is type annotations? https://beginnersbook.com/2014/09/java-annotations/)  
+__Requirements:__  
+Sdk: Any  
+__Useful links:__  
+https://blogs.oracle.com/java-platform-group/java-8s-new-type-annotations  
+https://www.mscharhag.com/java/java-8-type-annotations  
 
 ##### 5. Default and static interface methods
-__Requirements:__
-Sdk: Any
-__Useful links:__
-https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method
-http://www.baeldung.com/java-static-default-methods
-https://www.intertech.com/Blog/java-8-tutorial-default-and-static-methods-guide/
+__Requirements:__  
+Sdk: Any  
+__Useful links:__  
+https://www.journaldev.com/2752/java-8-interface-changes-static-method-default-method  
+http://www.baeldung.com/java-static-default-methods  
+https://www.intertech.com/Blog/java-8-tutorial-default-and-static-methods-guide/  
 
 ##### 6. Repeating annotations
-__Requirements:__
-Sdk: Any
-__Useful links:__
-https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/
-https://www.javatpoint.com/java-8-type-annotations-and-repeating-annotations
+__Requirements:__  
+Sdk: Any  
+__Useful links:__  
+https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/  
+https://www.javatpoint.com/java-8-type-annotations-and-repeating-annotations  
